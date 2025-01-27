@@ -1,6 +1,6 @@
 ### h2 Komentaja-Pingviini
 
-x) # Tiivistys Command Line Basics Revisited
+x) ## Tiivistys Command Line Basics Revisited
 ## peruskäytön komennot
 -$ pwd näyttää nykyisen hakemiston
 
@@ -118,11 +118,13 @@ Verkko 82540EM Gigabit Ethernet Controller- emuloitu verkkokortti VirtualBoxissa
 Koska tein ensimmäiset harjoitukset eri koneella, nyt huomasin, että VirtualBoxin asetuksia en muistanut muuttaa, ainakin virtuaalikoneelle varattua muistin määrää voisi nostaa ja prosessoriydinten määrää. Näin pitäisi suorituskyvyn parantua, mutta näissä tehtävissä ei ollut ongelmia.
 
 h) ## plug-in
+
 ![VirtualBoxVM_JIe73EIAQK](https://github.com/user-attachments/assets/38c01420-00e3-4907-bc09-e90e46f126e5)
 
 ## Lähteet
 
 https://terokarvinen.com/2020/command-line-basics-revisited/
+
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/
 
 
